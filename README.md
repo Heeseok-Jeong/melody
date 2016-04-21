@@ -1,2 +1,2 @@
-# melody
+# Melody
 Lifove Melody for Android
